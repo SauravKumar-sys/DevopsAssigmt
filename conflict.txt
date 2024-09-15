@@ -1,2 +1,6 @@
 test
+<<<<<<< HEAD
 abc
+=======
+abc
+>>>>>>> c028ad65f1bcfa30bf5b6132cc5714d96237e642
